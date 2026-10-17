@@ -8,7 +8,7 @@
   "description": "StudiaGo - Studia insieme, cresci insieme. Appunti, chat e aiuto tra studenti.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
-  "icons": [
+  "icons": []
    
       "sizes": "192x192",
       "type": "image/png"
